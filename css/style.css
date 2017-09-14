@@ -654,7 +654,7 @@ h6 {
   left: 0;
   text-align: center;
   background-color: rgba(254, 254, 254, 0.95);
-  opacity: 0;
+  /*opacity: 0;*/
   -webkit-transform: scale(1);
       -ms-transform: scale(1);
           transform: scale(1);
@@ -725,7 +725,7 @@ h6 {
   color: #fff;
   border-radius: 30px;
   background-color: rgba(0, 0, 0, 0.7);
-  opacity: 0;
+  /*opacity: 0;*/
   -webkit-transform: translateY(100px);
       -ms-transform: translateY(100px);
           transform: translateY(100px);
