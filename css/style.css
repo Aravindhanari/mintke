@@ -1629,3 +1629,61 @@ footer.site-footer a:hover {
     width: 25%;
   }
 }
+
+/* by aravindhan for prodcts*/
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+/* Designing short info blocks and its content */
+.short-info {
+	padding: 0;
+}
+
+.short-info img {
+	width: 100%;
+}
+
+.short-info-bg-1 {
+	background: #4fd2c2;
+}
+
+.short-info-bg-2 {
+	background: #6562a7;
+}
+
+.short-info-bg-3 {
+	background: #ff3366;
+}
+
+.short-info-bg-4 {
+	background: #d667cd;
+}
+
+.short-info-text {
+	padding: 40px 45px 40px 30px;
+}
+
+.short-info-text h2 {
+	margin: 0 0 25px;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.short-info-text p {
+	margin: 0;
+	color: #fff;
+	font-size: 14px;
+	opacity: 0.8;
+}
+
+/* Responsive mode */
+@media (max-width: 992px) {
+	.short-info {
+		margin: 0 0 20px;
+	}
+}
